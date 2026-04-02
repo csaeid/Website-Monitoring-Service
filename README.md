@@ -34,7 +34,7 @@ Designed with a "Command Center" aesthetic, this project notifies the user of co
 The program will prompt you for the URL you wish to monitor. You can type a full link (e.g., https://github.com) or simply press Enter to monitor Google by default. To stop the monitor and exit safely, use the CTRL + C keyboard shortcut.
 
 ## ⭐ Terminal Preview
-    ```
+```
     Checking website...
 
 Website: [https://www.google.com](https://www.google.com)
