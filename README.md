@@ -1,4 +1,4 @@
-# Website Monitoring Service
+<img width="609" height="144" alt="image" src="https://github.com/user-attachments/assets/5d27034f-8218-4149-b56f-10ad803d03bc" /># Website Monitoring Service
 
 This is an interactive and professional Python tool that allows you to monitor website health and local computer system resources simultaneously in real-time from a single terminal screen.
 
@@ -17,7 +17,7 @@ Designed with a "Command Center" aesthetic, this project notifies the user of co
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/csaeid/Website-Minor.git
+   git clone https://github.com/csaeid/Website-Monitoring-Service.git
    cd cyber-monitor
    ```
 
