@@ -18,7 +18,7 @@ Designed with a "Command Center" aesthetic, this project notifies the user of co
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/csaeid/Website-Monitoring-Service.git
-   cd cyber-monitor
+   cd Website-Monitoring-Service
    ```
 
 2. Install the required dependencies (requests and psutil):
